@@ -1,0 +1,21 @@
+
+New Automobile 1: 
+Make - No Make 
+Model - No Model 
+Color - No Color 
+Year - -1 
+Mileage - -1 
+
+New Automobile 2: 
+Make - Subaru 
+Model - Forester 
+Color - Blue 
+Year - 2022 
+Mileage - 1244 
+
+New Automobile 3: 
+Make - Ford 
+Model - Cmax 
+Color - Grey 
+Year - 2021 
+Mileage - 10 

@@ -1,0 +1,4 @@
+Student Name: Aniya Daniels	 Address: 505 Rock Creek Street Saint Cloud, MN 56301	 GPA: 4.0
+Student Name: Javier Prentice	 Address: 7086 North Oak Valley St. Clarkston, MI 48348	 GPA: 3.8
+Student Name: Malik Greenwood	 Address: 9850 Pennsylvania Dr. Ypsilanti, MI 48197	 GPA: 3.5
+Student Name: Raya Arroyo	 	 Address: 314 W. St Paul Ave. Powell, TN 37849	 	 GPA: 2.5
